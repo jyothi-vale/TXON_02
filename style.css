@@ -1,0 +1,30 @@
+body{
+	background-image: url(calculator.jfif);
+	width: 100%;
+}
+h1{
+	text-align: center;
+	color: yellow;
+	padding-top: 5%;
+	font-size: 300%;
+}
+.calc{
+	border: 3px double cyan;
+	float: center;
+	margin-left: 42%;
+	margin-top:5%;
+	display: 30%;
+	padding: 20px;
+}
+.btn{
+	font-size: 30px;
+	height: 40px;
+	width: 40px;
+}
+.display{
+	width:150px;
+	height: 40px;
+	font-style: bold;
+	color: darkblue;
+	font-size: 30px;
+}
